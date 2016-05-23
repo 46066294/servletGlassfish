@@ -58,7 +58,7 @@ public class XifratCesar extends HttpServlet {
                 "<body>\n" +
                 "   <center>\n" +
                 "       <h1>Xifrat Cesar</h1>\n" +
-                "           <p>Text original: " + valueString + "</p>"
+                "           <p>Introdueix text per xifrat Cesar!: " + valueString + "</p>"
         );
 
         // Escribimos en cada linea encriptado con un indice diferente
